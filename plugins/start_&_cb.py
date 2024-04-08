@@ -37,7 +37,7 @@ async def start(client, message):
         InlineKeyboardButton("👨‍💻 Dᴇᴠꜱ 👨‍💻", callback_data='dev')
         ],[
         InlineKeyboardButton('📯 𝗠𝗼𝘃𝗶𝗲𝗦 & 𝗦𝗲𝗿𝗶𝗲𝗦 𝗛𝘂𝗕', url='https://t.me/+j2jWpVLFtFFlMzI1'),
-        InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/+ssRL5na7tRU2OGY1')
+        InlineKeyboardButton('💁‍♂️ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/Prince_All_Supports')
         ],[
         InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
@@ -59,7 +59,7 @@ async def cb_handler(client, query: CallbackQuery):
                 InlineKeyboardButton("👨‍💻 Dᴇᴠꜱ 👨‍💻", callback_data='dev')
                 ],[
                 InlineKeyboardButton('📯 𝗠𝗼𝘃𝗶𝗲𝗦 & 𝗦𝗲𝗿𝗶𝗲𝗦 𝗛𝘂𝗕', url='https://t.me/+j2jWpVLFtFFlMzI1'),
-                InlineKeyboardButton('💁‍♂️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/+ssRL5na7tRU2OGY1')
+                InlineKeyboardButton('💁‍♂️ 𝗛𝗘L𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧', url='https://t.me/Prince_All_Supports')
                 ],[
                 InlineKeyboardButton('🎛️ Aʙᴏᴜᴛ', callback_data='about'),
                 InlineKeyboardButton('🛠️ Hᴇʟᴩ', callback_data='help')
