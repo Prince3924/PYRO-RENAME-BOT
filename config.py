@@ -57,12 +57,12 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @Renamer4gb_bot 💞</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/Renamer4gb_bot/53>𝗧𝗘𝗔𝗠 𝗣𝗬𝗥𝗢 𝗕𝗢𝗧𝗭</a> 
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/All_In_One_Prince_Bots>𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝘼𝘾𝙆𝙐𝙋 𝙒𝙊𝙍𝙇𝘿</a> 
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://graph.org/file/d538be03dc36f92b46162.jpg>Tᴇᴄʜ.ɢɪᴛ</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://graph.org/file/d538be03dc36f92b46162.jpg>Pyʀᴏ Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
+├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: <a href=https://graph.org/file/d538be03dc36f92b46162.jpg> Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -80,18 +80,18 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•»</b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Prince_All_Supports>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @ᴩyʀᴏ_ʙᴏᴛᴢ🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/+wwPpm865ER5hNWZl>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://telegram.me/Help_Chat_u_bot>MᴏTᴇᴄʜ Yᴛ</a>
-• ❣️ <a href=https://t.me/+wwPpm865ER5hNWZl>Database🤫</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://telegram.me/Help_Chat_u_bot>𝗛𝗲𝗹𝗽 𝗖𝗵𝗮𝘁 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a>
+• ❣️ <a href=https://t.me/+wwPpm865ER5hNWZl>𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘🤫</a>
 • ❣️ <a href=https://t.me/+j2jWpVLFtFFlMzI1>𝗠𝗼𝘃𝗶𝗲𝗦 & 𝗦𝗲𝗿𝗶𝗲𝗦 𝗛𝘂𝗕</a>
 • ❣️ <a href=https://t.me/All_In_One_Prince_Bots>𝙋𝙍𝙄𝙉𝘾𝙀 𝘽𝘼𝘾𝙆𝙐𝙋 𝙒𝙊𝙍𝙇𝘿</a>
 • ❣️ <a href=https://t.me/+0dEbDXEbhHg3YjE1> 𝘽𝘼𝘾𝙆𝙐𝙋 𝙒𝙊𝙍𝙇𝘿</a>
-• ❣️ <a href=https://t.me/Prince_All_Supports>𝗚𝗶𝘁𝗛𝘂𝗯 SUPPORTS 𝗡𝗢𝗢𝗕</a>
+• ❣️ <a href=https://t.me/Prince_All_Supports>𝗚𝗶𝘁𝗛𝘂𝗯 𝗡𝗢𝗢𝗕</a>
 • ❣️ <a href=https://t.me/movie_search_grp>𝗠𝗼𝘃𝗶𝗲𝗦 & 𝗦𝗲𝗿𝗶𝗲𝗦 𝗛𝘂𝗕𝗹</a> """
 
     PROGRESS_BAR = """<b>\n
